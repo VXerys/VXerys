@@ -1,9 +1,9 @@
-# 💫 About Me:
 👨‍💻 **Software Engineer**  
 Passionate about sharing my journey and learnings in the world of technology.  
 
 🎓 **Educational Background:**  
-I hold a degree in **Informatics Engineering** from **Nusa Putra University, Sukabumi**, where I developed a strong foundation in software development, problem-solving, and cutting-edge technologies.  
+I hold a degree in **Informatics Engineering** from **Nusa Putra University, Sukabumi**.  
+During my studies, I developed a strong foundation in software development, problem-solving, and cutting-edge technologies.  
 
 🌟 **What I Do:**  
 - Building robust and efficient software solutions.  
