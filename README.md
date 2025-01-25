@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 👨‍💻 **Software Engineer**  
 Passionate about sharing my journey and learnings in the world of technology.  
 
