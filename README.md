@@ -6,10 +6,6 @@ Passionate about sharing my journey and learnings in the world of technology.
 I hold a degree in **Informatics Engineering** from **Nusa Putra University, Sukabumi**.  
 During my studies, I developed a strong foundation in software development, problem-solving, and cutting-edge technologies.  
 
-🌟 **What I Do:**  
-- Building robust and efficient software solutions.  
-- Exploring innovative technologies and tools.  
-
 📚 **Lifelong Learner:**  
 I believe in continuous improvement and actively seek opportunities to grow both personally and professionally in the tech field.  
 
