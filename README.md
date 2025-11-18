@@ -22,3 +22,11 @@ Hi — I'm **M. Sechan Alfarisi**, a 5th-semester Software Engineering student a
 [![](https://visitcount.itsvg.in/api?id=VXerys&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/VXerys/VXerys/output/snake.svg" alt="Snake animation" />
+
+###
