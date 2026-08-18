@@ -1,3 +1,5 @@
+![49cdd838e8c6d7fe5e2dd55deead5567](https://github.com/user-attachments/assets/cc2ef335-8ecb-4510-8962-adc03ac2821b)
+
 # 💫 About Me
 
 Hi — I'm **M. Sechan Alfarisi**, a 5th-semester Software Engineering student at **Nusa Putra University, Sukabumi**. I’m passionate about turning ideas into clean, usable apps and learning new tools every day.
