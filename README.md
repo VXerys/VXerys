@@ -1,15 +1,17 @@
-![LiveStreamer](https://github.com/user-attachments/assets/4b2e233b-d247-4076-9850-17e16f9a6862)
+![MarioCoder](https://github.com/user-attachments/assets/db1f70a4-c525-4e6f-b55e-ac8fe4e991b8)
 
-# 💫 About Me
+## 👨‍💻 About Me
 
-Hi — I'm **M. Sechan Alfarisi**, a 5th-semester Software Engineering student at **Nusa Putra University, Sukabumi**. I’m passionate about turning ideas into clean, usable apps and learning new tools every day.
+I'm an **Informatics Engineering student** with hands-on experience building **mobile and web applications**, with a strong interest in clean architecture, thoughtful UI/UX, and maintainable software.
 
-🎯 **Focus:** Mobile Developer (primary) — I build mobile apps with an emphasis on user experience and reliable code.  
-🌐 **Also:** I tinker with web development for prototypes and quick projects (I enjoy the coding vibe there, but my deeper focus is mobile).
+My primary focus is **Flutter & Dart** for mobile development, while I also build web applications with **React, Next.js, and TypeScript**, supported by backend platforms such as **Supabase and Appwrite**.
 
-📚 **Learning mindset:** I’m always exploring new libraries, patterns, and best practices — currently focusing on Flutter & Dart, API design with Node/Prisma, and pragmatic engineering workflows.
-
-🤝 **Let’s connect:** Check out my repos, open an issue, or DM me to collaborate on mobile apps or small web prototypes. I love practical projects with clear goals!
+* 🔭 I’m currently working on **BookMate** and **Marketiv**, while continuing to build and refine real-world mobile and web projects.
+* 👯 I’m open to collaborating on **Flutter, React/Next.js, open-source, and product-driven projects**.
+* 🤝 I’m interested in projects where I can contribute to **frontend/mobile development, architecture, UI implementation, and product engineering**.
+* 🌱 I’m currently learning more about **Kotlin, AI engineering, system architecture, and production-grade software development**.
+* 💬 Ask me about **Flutter, GetX, Clean Architecture, Supabase, Appwrite, Next.js, UI/UX, or building maintainable applications**.
+* ⚡ Fun fact: I enjoy thinking about **architecture and user experience as much as writing the actual code**.
 
 --- 
 
