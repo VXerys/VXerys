@@ -1,25 +1,60 @@
 ![MarioCoder](https://github.com/user-attachments/assets/db1f70a4-c525-4e6f-b55e-ac8fe4e991b8)
 
-## 👨‍💻 About Me
+## Hi, I'm Sechan
 
-I'm an **Informatics Engineering student** with hands-on experience building **mobile and web applications**, with a strong interest in clean architecture, thoughtful UI/UX, and maintainable software.
+**Full-Stack Mobile Software Engineer and Applied AI Engineer** based in Sukabumi, Indonesia.
 
-My primary focus is **Flutter & Dart** for mobile development, while I also build web applications with **React, Next.js, and TypeScript**, supported by backend platforms such as **Supabase and Appwrite**.
+I build mobile and web products that real people use: a reading app on Google Play, a clinic system that replaced spreadsheets, and a marketplace that won national startup funding. Most of my work is in Flutter, React Native, Next.js and Supabase, with applied AI on top.
 
-* 🔭 I’m currently working on **BookMate** and **Marketiv**, while continuing to build and refine real-world mobile and web projects.
-* 👯 I’m open to collaborating on **Flutter, React/Next.js, open-source, and product-driven projects**.
-* 🤝 I’m interested in projects where I can contribute to **frontend/mobile development, architecture, UI implementation, and product engineering**.
-* 🌱 I’m currently learning more about **Kotlin, AI engineering, system architecture, and production-grade software development**.
-* 💬 Ask me about **Flutter, GetX, Clean Architecture, Supabase, Appwrite, Next.js, UI/UX, or building maintainable applications**.
-* ⚡ Fun fact: I enjoy thinking about **architecture and user experience as much as writing the actual code**.
+### Now
 
---- 
+- **Co-Founder & CTO at [Marketiv](https://marketiv.id)**, a marketplace that connects Indonesian MSMEs with local micro-creators. I lead the Next.js web platform and co-built the Appwrite backend for Midtrans payments, escrow and creator withdrawals. The team was funded by P2MW 2026 and received Juara Harapan 2 at KMI EXPO 2026.
+- **Mobile Software Engineer Intern at Mangcoding**, where I'm the main contributor to [BookMate](https://play.google.com/store/apps/details?id=com.mangcoding.bookmate2) on Google Play (286 of 326 commits, Flutter and Supabase).
+- **Freelance full-stack developer** for local businesses: a clinic information system, a finance system for a garment manufacturer, and an ERP for a motorcycle gear brand.
+- **Studying** Informatics Engineering at Universitas Nusa Putra (expected 2027) and following the Next-Gen AI Engineer path at Asah led by Dicoding.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/appwrite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=appwrite" alt="appwrite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dart" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/framer" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/framer" alt="framer" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+### Selected work
 
+| Project | What it is | Stack | Links |
+|---|---|---|---|
+| **BookMate** | Reading-community app on Google Play. I built the reading tracker on an atomic Postgres function so two updates can't reset a book's progress, plus the reflection studio and the badge system. | Flutter, GetX, Supabase | [Google Play](https://play.google.com/store/apps/details?id=com.mangcoding.bookmate2) · [Website](https://bookmate-web.vercel.app) |
+| **Marketiv** | Marketplace with pay-per-view campaigns and escrow-backed rate cards. Checkout uses idempotency keys, so a retry on a weak connection can't create a second payment. | Next.js 16, Appwrite, Midtrans, Vertex AI | [marketiv.id](https://marketiv.id) |
+| **Cartify** | Voice shopping assistant. Speech recognition runs on the phone and only the transcript goes to the LLM, so it works on weak in-store signal. Basis of my SENTIMETER 2026 paper. | React Native, Expo, Groq, Gemini, SQLite | [Repo](https://github.com/VXerys/cartify-app) · [Paper](https://prosiding.sentimeter.nusaputra.ac.id/index.php/prosiding/article/view/104) |
+| **Clinic Information System** | Replaced Klinik Cikidang Medika's spreadsheets for registration, queue, records, billing and reports. Sole developer. Migrated 7,493 legacy rows into Postgres behind row-level security. | Next.js 16, Supabase, Vitest | Client work, private |
+| **Fluxa** | Offline-first finance app that logs transactions by voice or receipt scan. The LLM fallback only cleans up low-confidence transcripts and is never allowed to change the amount. | Flutter, FastAPI, faster-whisper, Groq | [App](https://github.com/VXerys/fluxa_app) · [Model API](https://github.com/VXerys/fluxa-model) |
+| **ArtConnect** | CRM for visual artists with a drag-and-drop sales pipeline that rolls back if the write fails. I led the full-stack work in a team of five. | React, TypeScript, Supabase, Express, Prisma | [Demo](https://artconnect-crm.netlify.app) · [Repo](https://github.com/VXerys/artconnect-crm) |
+| **Gunung Puyuh WebGIS** | Map of the neighbourhoods in Gunung Puyuh, Sukabumi, that sit too far from schools and clinics, with 5, 10 and 15 minute service areas. | Leaflet, JavaScript, GeoJSON | [Repo](https://github.com/VXerys/accessibility-gap-analysis-webgis) |
 
----
-[![](https://visitcount.itsvg.in/api?id=VXerys&icon=0&color=0)](https://visitcount.itsvg.in)
+Full case studies are on [sechanalfarisi.dev](https://www.sechanalfarisi.dev).
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Recognition
+
+- Juara Harapan 2, KMI EXPO 2026, Digital Business (Early Stage), with Marketiv
+- P2MW 2026 funding recipient (Kemendikbudristek RI), for Marketiv
+- First author and presenter, SENTIMETER 2026, Proceedings Vol 5, pp. 62-75
+- MTCNA (MikroTik Certified Network Associate), 2026
+
+### Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,ts,tailwind,supabase,postgres,appwrite,firebase,sqlite,py,fastapi,vercel,git&perline=15" alt="Flutter, Dart, React, Next.js, TypeScript, Tailwind CSS, Supabase, PostgreSQL, Appwrite, Firebase, SQLite, Python, FastAPI, Vercel, Git" />
+</p>
+
+- **Mobile:** Flutter, Dart, React Native, Expo, GetX, BLoC, offline-first with SQLite and drift
+- **Web:** Next.js, React, TypeScript, Tailwind CSS
+- **Backend and data:** Supabase, PostgreSQL with row-level security, Appwrite Cloud Functions, Firebase, Midtrans
+- **Applied AI:** LLM integration with Groq, Gemini and Vertex AI, on-device speech recognition, FastAPI
+- **Quality:** Vitest, Playwright, flutter_test, Sentry, spec-driven development
+
+### How I work
+
+I plan before I build, test every rule that touches money or patient data, and enforce access in the database, so a broken screen can't get around it.
+
+### Work with me
+
+I take freelance mobile and web projects, from first spec to launch. I'm also open to full-time roles and 3 to 6 month internships, remote or hybrid. Email me at **sehanalfarisi9@gmail.com**.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VXerys/VXerys/output/snake-dark.svg" />
+  <img alt="Contribution graph eaten by a snake" src="https://raw.githubusercontent.com/VXerys/VXerys/output/snake.svg" />
+</picture>
